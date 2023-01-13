@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar-toggler {
+    color: #FFC107;
+}
+
+.nav-link {
+    color: #FFC107;
+}
+
+.nav-link:hover {
+    color: #F20000;
+}
+
+.btn {
+    background-color: #FFC107;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #F20000;
+    color: white;
+}
+
+.contacts {
+    color: #FFC107;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contacts-item {
+    margin-right: 10px;
+}
+
+.welcome-container {
+    border-color: #FFC107 !important;
+}
+
+.card {
+    border-color: #FFC107;
+}
+
+.card-price {
+    border-bottom: 2px solid #FFC107;
+    padding: 5px;
+}
+
+.price-title {
+    color: #FFC107;
+}
+
+.ws-screen {
+    width: 85px;
+    height: 100px;
+}
